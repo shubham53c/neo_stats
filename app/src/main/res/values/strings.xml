@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">AsteroidsNeoStats</string>
+    <string name="please_click_back_again_to_exit">Press BACK again to quit</string>
+    <string name="loading">Please wait…</string>
+    <string name="genericError">Something went wrong. Please try again later.</string>
+    <string name="ok">OK</string>
+    <string name="no_data_available">Server Busy. Inconvenience regretted.</string>
+    <string name="retry">Retry</string>
+    <string name="not_implemented">Not Implemented</string>
+    <string name="submit">Submit</string>
+    <string name="from_date">From Date</string>
+    <string name="to_date">To Date</string>
+    <string name="please_select_from_and_to_date">Please select both From and To date to continue</string>
+    <string name="top_label_text">Please select from and to date and click submit to fetch neo feed</string>
+</resources>
